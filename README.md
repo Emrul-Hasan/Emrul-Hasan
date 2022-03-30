@@ -20,10 +20,10 @@ Skills:JS / HTML / CSS/Brostrap/VUE JS / React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&show_icons=true&count_private=true)  
+![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true)
+
 
 ![Profile views](https://gpvc.arturio.dev/Emrul-Hasan)  
