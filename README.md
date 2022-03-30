@@ -22,6 +22,7 @@ Skills:JS / HTML / CSS/Brostrap/VUE JS / React
 
 
 ![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Emrul-Hasan)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan)  
 
