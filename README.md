@@ -1,11 +1,11 @@
 ### Hi there 👋, Emrul Hasan Emon
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVULF200zYinnIwFmdDUqgskAWCmqCKLxSTw&usqp=CAU)
+
 
 I'm a  web developer with a passion.
 
-Skills:JS / HTML / CSS/Brostrap/VUE JS / REACT
+Skills:JS / HTML / CSS/Brostrap/VUE JS / React
 
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: emrulhasanemon23@yahoo.com 
