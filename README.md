@@ -20,9 +20,11 @@ Skills:JS / HTML / CSS/Brostrap/VUE JS / React
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p aligin="center">
-![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)
+
+<img src=" (https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)"/>
 </p>
 
+![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)
 
 
 
