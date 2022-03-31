@@ -24,7 +24,7 @@ Skills:JS / HTML / CSS/Brostrap/VUE JS / React
 <img src=" (https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)"/>
 </p>
 
-![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)
+![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0)
 
 
 
