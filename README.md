@@ -1,7 +1,7 @@
-### Hi there 👋, Emrul Hasan Emon
+## Hi there 👋, Emrul Hasan Emon
 
 
-I'm a  web developer with a passion.
+###I'm a  web developer with a passion.
 
  
 - 🌱 I’m currently learning React 
