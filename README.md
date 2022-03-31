@@ -27,7 +27,7 @@
   <br/> 
     
  <p align="center"> 
- <img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
   <br/> 
 
