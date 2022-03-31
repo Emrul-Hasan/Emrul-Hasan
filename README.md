@@ -19,10 +19,7 @@ I'm a  web developer with a passion.
 </p>
 <br>
 <br>
-<p align="center">
 
-![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0)
-</p>
 <p align="center"> 
  <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0" />
 </p>
@@ -37,7 +34,7 @@ I'm a  web developer with a passion.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emrul-Hasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  
 
 
 
