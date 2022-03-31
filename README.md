@@ -23,7 +23,10 @@ I'm a  web developer with a passion.
 
 ![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0)
 </p>
-
+<p align="center"> 
+ <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0" />
+</p>
+  <br/> 
     
  <p align="center"> 
  <img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
