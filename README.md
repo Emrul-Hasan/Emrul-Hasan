@@ -17,19 +17,12 @@ I'm a  web developer with a passion.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&layout=compact$&theme=react$hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-<p aligin="center">
-
-<img src=" (https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&background=060A0CD0)"/>
-</p>
 
 ![Emrul Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0)
 
 
- <br/> 
  <img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-    Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
-
-
+  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emrul-Hasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
