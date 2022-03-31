@@ -19,6 +19,9 @@
 <br>
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emrul-Hasan)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
 <p align="center"> 
  <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=060A0CD0" />
 </p>
