@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVULF200zYinnIwFmdDUqgskAWCmqCKLxSTw&usqp=CAU"/></a>
+<a href="#"><img width="40%" height="140px" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVULF200zYinnIwFmdDUqgskAWCmqCKLxSTw&usqp=CAU"/></a>
 ## Hi there 👋, Emrul Hasan Emon
 
 <h3>I'm a  web developer with a passion</h3>
