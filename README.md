@@ -23,6 +23,11 @@ I'm a  web developer with a passion.
 
  <img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-    Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   
+  <br/>
+    
+  <img alt="Emrul Hasan Emon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrul-Hasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <br/>
+  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emrul-Hasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
