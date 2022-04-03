@@ -40,4 +40,4 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/Emrul-Hasan)  
-<a href="https://github.com/Emrul-Hasan?tab=followers"><img src="https://img.shields.io/github/followers/Emrul-Hasan?label=Followers&style=social" alt="GitHub Badge"></a>
+
