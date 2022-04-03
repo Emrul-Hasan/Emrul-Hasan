@@ -36,9 +36,8 @@
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Emrul-Hasan">
-</a>
+
 
 
 ![Profile views](https://gpvc.arturio.dev/Emrul-Hasan)  
+<a href="https://github.com/Emrul-Hasan?tab=followers"><img src="https://img.shields.io/github/followers/kbutsho?label=Followers&style=social" alt="GitHub Badge"></a>
