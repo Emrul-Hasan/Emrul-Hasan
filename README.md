@@ -1,7 +1,6 @@
 
-# Hi there 👋, Emrul Hasan Emon
-<h1 align="center">Hi <img src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
-<h2>I'm a  web developer with a passion</h2>
+<h1 align="center">Hi <img src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/Wave.gif" height="55px" width="55px">, Emrul Hasan Emon</h1>
+<h2 align='center'>I'm a  web developer with a passion</h2>
 
  
 - 🌱 I’m currently learning React 
