@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/githubphoto.jpg" height="60px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/githubphoto.png" height="100px"/></a>
 <h1 align="center">Hi <img src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/Wave.gif" height="50px" width="50px">,I'm Emrul Hasan Emon</h1>
 <h2 align='center'>I'm a  web developer with a passion</h2>
  
