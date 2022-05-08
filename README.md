@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: emrulhasanemon23@yahoo.com 
 - ⚡ Fun fact: I play games 
-<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/imrulha00797948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrulha00797948" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emrul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrul-hasan-emon" height="30" width="40" /></a>
-<a href="https://kaggle.com/mdemrulhasanemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdemrulhasanemon" height="30" width="40" /></a>
-<a href="https://fb.com/emrulhasan.emon.7965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emrulhasan.emon.7965" height="30" width="40" /></a>
+<a href="https://twitter.com/imrulha00797948" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrulha00797948" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrul-hasan-emon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrul-hasan-emon" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdemrulhasanemon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdemrulhasanemon" height="30" width="40" /></a>
+<a href="https://fb.com/emrulhasan.emon.7965" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emrulhasan.emon.7965" height="30" width="40" /></a>
 </p>
 
 
