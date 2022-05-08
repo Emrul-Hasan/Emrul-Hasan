@@ -2,8 +2,8 @@
 <h2 align='center'>I'm a  web developer with a passion</h2>
  
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: emrulhasanemon23@yahoo.com 
+- 👯 I’m looking to collaborate on Development Website
+- 📫 How to reach me: emrulhasanaiub19@gmail.com
 - ⚡ Fun fact: I play games 
 
 <h3 align="center">Connect with me:</h3>
