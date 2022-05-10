@@ -24,7 +24,7 @@
 
 
 <p align="center"> 
- <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=tokyonight&show_icons=true&hide_border=true&background=0D1117" />
+ <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=github_dark&show_icons=true&hide_border=true&background=0D1117" />
 </p>
   <br/> 
     
