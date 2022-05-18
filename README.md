@@ -23,9 +23,14 @@
 <br>
 
 
-<p align="center"> 
+<!-- <p align="center"> 
  <img alt="Emrul Hasan Emon's  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=github_dark&show_icons=true&hide_border=true&background=0D1117" />
-</p>
+</p> -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=dark&show_icons=true)
+
+
   <br/> 
     
  <p align="center"> 
