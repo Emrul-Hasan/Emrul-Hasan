@@ -54,6 +54,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  
 
-
+### ❤ Profile Views
 ![Profile views](https://gpvc.arturio.dev/Emrul-Hasan)  
 
