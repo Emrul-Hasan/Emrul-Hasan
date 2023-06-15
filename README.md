@@ -52,8 +52,8 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emrul-Hasan&theme=dracula)](https://github.com/Emrul-Hasan/github-readme-activity-graph)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emrul-Hasan&theme=high-contrast)](https://github.com/Emrul-Hasan/github-readme-activity-graph)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  -->
 
 ### ❤ Profile Views
 ![Profile views](https://gpvc.arturio.dev/Emrul-Hasan)  
