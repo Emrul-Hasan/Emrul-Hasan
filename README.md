@@ -1,7 +1,7 @@
 <!--   <a href="#"><img  width="100%" src="https://www.linkpicture.com/q/design.png" height="280px"/></a> -->
 <!-- <a href="#"><img width="100%" src="https://www.linkpicture.com/q/verdver12233.jpg" height="265px"/></a> -->
 <h1 align="center">Hi <img src="https://github.com/Emrul-Hasan/Emrul-Hasan/blob/main/Wave.gif" height="50px" width="50px">,I'm Emrul Hasan Emon</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=25&duration=4000&pause=500&color=13B5F7&width=435&lines=Full+Stack+Software+Engineer;Always+Learning+New+Things.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=25&duration=4000&pause=500&color=13B5F7&width=435&lines=Full+Stack+Software+Engineer;Always+Learning+New+Things." alt="Typing SVG" /></a>
  
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Development Website
