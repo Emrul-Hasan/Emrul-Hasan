@@ -52,7 +52,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emrul-Hasan&theme=react)](https://github.com/Emrul-Hasan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emrul-Hasan&theme=react-dark)](https://github.com/Emrul-Hasan/github-readme-activity-graph)
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emrul-Hasan&hide_border=true&bg_color=0D1117)  -->
 
 ### ❤ Profile Views
