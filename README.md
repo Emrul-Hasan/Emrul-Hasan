@@ -6,7 +6,7 @@
 </p>
 
  
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning ASP .NET 
 - 👯 I’m looking to collaborate on Development Website
 - 📫 How to reach me: emrulhasanaiub19@gmail.com
 - ⚡ Fun fact: I play games 
