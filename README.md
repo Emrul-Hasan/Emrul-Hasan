@@ -24,7 +24,7 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-3E65CF?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
 
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
