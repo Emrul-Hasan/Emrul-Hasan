@@ -13,11 +13,23 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<!-- <a href="https://twitter.com/imrulha00797948" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrulha00797948" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/imrulha00797948" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrulha00797948" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-emrul-hasan-emon/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrul-hasan-emon" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdemrulhasanemon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdemrulhasanemon" height="30" width="40" /></a>
 <a href="https://fb.com/emrulhasan.emon.7965" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emrulhasan.emon.7965" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/emrul_hasan_emon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emrul_hasan_emon/" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/emrul_hasan_emon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emrul_hasan_emon/" height="30" width="40" /></a> -->
+
+
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Linkedin Badge](https://img.shields.io/badge/gmail-3E65CF?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.linkedin.com/in/md-emrul-hasan-emon/)
 </p>
 
 
