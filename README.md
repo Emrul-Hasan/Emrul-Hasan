@@ -33,11 +33,9 @@
 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emrul-Hasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
   
-   <img alt="Emrul Hasan Emon's Github Stats" src= "https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=codeSTACKr&show_icons=true&hide_border=true&background=0D1117" />
+   <img alt="Emrul Hasan Emon's Github Stats" src= "https://github-readme-stats.vercel.app/api?username=Emrul-Hasan&theme=codeSTACKr&show_icons=true&hide_border=true&include_all_commits=false&background=0D1117" />
  </p>
 
 
